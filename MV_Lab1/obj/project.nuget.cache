@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Z6q4leNs3L6zFpTi/bvkFksdR9fG4ZOAEIzs/+vHKzACf9EmC42ZKgG70p/H/eG6DeJTUEh+LxVcFCg+NK7KQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nevar\\RiderProjects\\MV_Lab1\\MV_Lab1\\MV_Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nevar\\.nuget\\packages\\microsoft.solver.foundation\\3.1.0\\microsoft.solver.foundation.3.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Solver.Foundation 3.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Solver.Foundation",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

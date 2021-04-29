@@ -1,0 +1,16 @@
+C:\Users\nevar\RiderProjects\MV_Lab1\MV_Lab1\bin\Debug\net5.0\MV_Lab1.exe
+C:\Users\nevar\RiderProjects\MV_Lab1\MV_Lab1\bin\Debug\net5.0\MV_Lab1.deps.json
+C:\Users\nevar\RiderProjects\MV_Lab1\MV_Lab1\bin\Debug\net5.0\MV_Lab1.runtimeconfig.json
+C:\Users\nevar\RiderProjects\MV_Lab1\MV_Lab1\bin\Debug\net5.0\MV_Lab1.runtimeconfig.dev.json
+C:\Users\nevar\RiderProjects\MV_Lab1\MV_Lab1\bin\Debug\net5.0\MV_Lab1.dll
+C:\Users\nevar\RiderProjects\MV_Lab1\MV_Lab1\bin\Debug\net5.0\ref\MV_Lab1.dll
+C:\Users\nevar\RiderProjects\MV_Lab1\MV_Lab1\bin\Debug\net5.0\MV_Lab1.pdb
+C:\Users\nevar\RiderProjects\MV_Lab1\MV_Lab1\obj\Debug\net5.0\MV_Lab1.csprojAssemblyReference.cache
+C:\Users\nevar\RiderProjects\MV_Lab1\MV_Lab1\obj\Debug\net5.0\MV_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nevar\RiderProjects\MV_Lab1\MV_Lab1\obj\Debug\net5.0\MV_Lab1.AssemblyInfoInputs.cache
+C:\Users\nevar\RiderProjects\MV_Lab1\MV_Lab1\obj\Debug\net5.0\MV_Lab1.AssemblyInfo.cs
+C:\Users\nevar\RiderProjects\MV_Lab1\MV_Lab1\obj\Debug\net5.0\MV_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\nevar\RiderProjects\MV_Lab1\MV_Lab1\obj\Debug\net5.0\MV_Lab1.dll
+C:\Users\nevar\RiderProjects\MV_Lab1\MV_Lab1\obj\Debug\net5.0\ref\MV_Lab1.dll
+C:\Users\nevar\RiderProjects\MV_Lab1\MV_Lab1\obj\Debug\net5.0\MV_Lab1.pdb
+C:\Users\nevar\RiderProjects\MV_Lab1\MV_Lab1\obj\Debug\net5.0\MV_Lab1.genruntimeconfig.cache
